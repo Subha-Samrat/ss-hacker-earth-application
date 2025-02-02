@@ -1,5 +1,5 @@
-# ss-hacker-earth-application
-Real World Application for DEVs
+# UI-Backend-Integration
+
 ## Overview
 This project integrates a user interface (UI) with a backend service to provide a seamless user experience. The UI is built using modern web technologies, while the backend is implemented using a robust and scalable framework.
 
@@ -16,10 +16,17 @@ This project integrates a user interface (UI) with a backend service to provide 
     git clone https://github.com/yourusername/UI-Backend-Integration.git
     ```
 
-## Contribution Guidelines
-- **Avoid pushing directly to the `master` branch.**
-- Create your own branches and submit merge requests for merging into `master`.
 
-## Code Review Process
-- **Reviewers**: Subho and Samrat
-- **Approver**: Owner (Subha-Samrat)
+## Usage
+1. Start the backend server:
+    ```sh
+    npm run start:backend
+    ```
+2. Start the frontend development server:
+    ```sh
+    npm run start:frontend
+    ```
+3. Open your browser and navigate to `http://localhost:3000` to view the application.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
