@@ -1,4 +1,4 @@
-# UI-Backend-Integration
+# Backend Dev
 
 ## Overview
 This project integrates a user interface (UI) with a backend service to provide a seamless user experience. The UI is built using modern web technologies, while the backend is implemented using a robust and scalable framework.
@@ -16,7 +16,6 @@ This project integrates a user interface (UI) with a backend service to provide 
     git clone https://github.com/yourusername/UI-Backend-Integration.git
     ```
 
-
 ## Usage
 1. Start the backend server:
     ```sh
@@ -30,3 +29,14 @@ This project integrates a user interface (UI) with a backend service to provide 
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+### Folder Structure for UI/Frontend Contributions
+- `src/`: Contains the source code for the frontend.
+  - `components/`: Reusable UI components.
+  - `pages/`: Page components that represent different routes.
+  - `styles/`: Global and component-specific styles.
+  - `utils/`: Utility functions and helpers.
+  - `services/`: API service calls and data fetching logic.
+- `public/`: Static assets like images, fonts, and icons.
+
+Please ensure that your contributions follow the existing folder structure and coding standards.
